@@ -69,8 +69,8 @@ I design and ship complete ML systems: data pipelines with validation and versio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LudovicJulien&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=C9D1D9&ring_color=059669&hide_rank=true&count_private=true&hide=issues,stars" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicJulien&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats-seven-teal-73.vercel.app/api?username=LudovicJulien&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=C9D1D9&ring_color=059669&hide_rank=true&count_private=true&hide=issues,stars" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-seven-teal-73.vercel.app/api/top-langs/?username=LudovicJulien&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/>
 
