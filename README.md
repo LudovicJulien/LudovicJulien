@@ -69,7 +69,8 @@ I design and ship complete ML systems: data pipelines with validation and versio
 
 <div align="center">
 
-<img src="https://github-readme-stats-seven-teal-73.vercel.app/api?username=LudovicJulien&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=C9D1D9&ring_color=059669&hide_rank=true&count_private=true&hide=issues,stars" height="170" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats-seven-teal-73.vercel.app/api?username=LudovicJulien&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=C9D1D9&ring_color=059669&hide_rank=true&count_private=true&hide=issues,stars" height="170" alt="GitHub Stats"/> -->
+
 <img src="https://github-readme-stats-seven-teal-73.vercel.app/api/top-langs/?username=LudovicJulien&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/>
@@ -78,7 +79,7 @@ I design and ship complete ML systems: data pipelines with validation and versio
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LudovicJulien&bg_color=0D1117&color=34D399&line=059669&point=FFFFFF&area=true&area_color=064E3B&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=LudovicJulien&bg_color=0D1117&color=34D399&line=059669&point=FFFFFF&area=true&area_color=064E3B&hide_border=true" width="95%" alt="Activity Graph"/> -->
 
 </div>
 
