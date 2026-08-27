@@ -75,7 +75,7 @@ I design and ship complete ML systems: data pipelines with validation and versio
 
 <br/>
 
-<img src="https://github-readme-streak-stats-kraftt.vercel.app/?user=LudovicJulien&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats"/>
+<!-- <img src="https://github-readme-streak-stats-kraftt.vercel.app/?user=LudovicJulien&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats"/> -->
 
 <br/>
 
