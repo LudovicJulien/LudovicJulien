@@ -53,10 +53,9 @@ I design and ship complete ML systems: data pipelines with validation and versio
 <br/>
 
 #### AI / ML
-<img src="https://img.shields.io/badge/Hugging%20Face-10B981?style=flat-square&logo=huggingface&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-34D399?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-34D399?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-064E3B?style=flat-square&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-059669?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/spaCy-10B981?style=flat-square&logo=spacy&logoColor=white"/>
 <img src="https://img.shields.io/badge/DVC-34D399?style=flat-square&logo=dvc&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-059669?style=flat-square&logo=pydantic&logoColor=white"/>
