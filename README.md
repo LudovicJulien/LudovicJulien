@@ -20,7 +20,7 @@
 
 Software engineering student at ÉTS Montréal specializing in AI/ML, building production-grade machine learning systems end to end, from data ingestion to model serving.
 
-I design and ship complete ML systems: data pipelines with validation and versioning, retrieval-augmented generation over real-world datasets, and full-stack applications that put models in front of users. Incoming **Data Scientist Intern at Ubisoft** (Smart Services, Global Publishing), working on personalization, LTV prediction, recommendation systems, and large-scale A/B testing on Databricks.
+I design and ship complete ML systems: data pipelines with validation and versioning, retrieval-augmented generation over real-world datasets, and full-stack applications that put models in front of users.
 
 - Building **RAG pipelines** over Montréal open data (heritage buildings, tourism)
 - Strong foundation in **NLP** (spaCy, NER), **data engineering** (DVC, Pydantic), and **MLOps**
