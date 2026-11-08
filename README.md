@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%C3%89TS%20Montr%C3%A9al-Software%20Engineering-059669?style=flat-square&logo=googlescholar&logoColor=white" alt="ÉTS"/>
-<img src="https://img.shields.io/badge/Specialization-AI%20%2F%20ML-10B981?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/%C3%89TS%20Montr%C3%A9al-Software%20Engineering-064E3B?style=flat-square&logo=googlescholar&logoColor=white" alt="ÉTS"/>
+<img src="https://img.shields.io/badge/Specialization-AI%20%2F%20ML-064E3B?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML"/>
 <img src="https://img.shields.io/badge/Montr%C3%A9al-Canada-064E3B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 
@@ -53,12 +53,12 @@ I design and ship complete ML systems: data pipelines with validation and versio
 <br/>
 
 #### AI / ML
-<img src="https://img.shields.io/badge/LangChain-34D399?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-34D399?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-064E3B?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-064E3B?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-064E3B?style=flat-square&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-10B981?style=flat-square&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/DVC-34D399?style=flat-square&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-059669?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-064E3B?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-064E3B?style=flat-square&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-064E3B?style=flat-square&logo=pydantic&logoColor=white"/>
 
 </div>
 
